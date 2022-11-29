@@ -11,7 +11,10 @@ const navbar = () => {
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div className="navbar-nav">
+    <div className="navbar-nav div4">
+      <div className="cajaImagen">
+      <img className="carrito" src="https://i.pinimg.com/736x/6e/90/9e/6e909ea80005ab34d61ee144686c40ee.jpg" alt="" />
+  </div>
         <a className="nav-link active" aria-current="page" href="#">Inicio</a>
         <a className="nav-link" href="#">Tienda</a>
         <a className="nav-link" href="#">Contacto</a>
